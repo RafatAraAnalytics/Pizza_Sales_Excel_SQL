@@ -1,6 +1,6 @@
-# Pizza_Sales_Excel_SQL
+# Sales_Excel_SQL
 
-Pizza sales analysis, two software tools, SQL DB and Excel, were utilized. Dashboards were created in Excel with slicers for order date customization. These dashboards offer insights into sales trends and aid client decision-making. Various problem statements were addressed based on client requests.
+Sales analysis, two software tools, SQL DB and Excel, were utilized. Dashboards were created in Excel with slicers for order date customization. These dashboards offer insights into sales trends and aid client decision-making. Various problem statements were addressed based on client requests.
 
 The key performance indicators (KPIs) evaluated include total revenue, average order value, total pizzas sold, total orders, and average pizzas per order. These metrics provide insights into business performance.
 
